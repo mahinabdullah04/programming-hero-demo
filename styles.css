@@ -21,4 +21,9 @@
   width: 150px;
   text-align: center;
 }
-.purple-text{color: blueviolet;}
+.signup {
+  background-color: gray;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
