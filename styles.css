@@ -7,15 +7,15 @@
 }
 .center-align {
   text-align: center;
-  color: blueviolet;
+  color: #bf7bfe;
 }
 .upper-portion {
   background-color: black;
   color: white;
-  padding-top: 35px;
-  padding-left: 15%;
-  padding-right: 15%;
+  padding: 35px 5vw;
   max-width: 900px;
+  margin: 40px auto 0 auto;
+  box-sizing: border-box;
 }
 .free-plan {
   display: inline-block;
