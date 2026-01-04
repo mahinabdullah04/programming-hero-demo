@@ -8,4 +8,17 @@
 }
 .center-align {
   text-align: center;
+  color: blueviolet;
 }
+.upper-portion {
+  background-color: black;
+  color: white;
+  padding: 35px;
+}
+.free-plan {
+  display: inline-block;
+  background-color: gray;
+  width: 150px;
+  text-align: center;
+}
+.purple-text{color: blueviolet;}
