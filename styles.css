@@ -1,0 +1,11 @@
+.header-img {
+  display: inline-block;
+  vertical-align: middle;
+}
+.header-buttons {
+  display: inline-block;
+  float: right;
+}
+.center-align {
+  text-align: center;
+}
